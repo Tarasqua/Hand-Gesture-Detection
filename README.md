@@ -1,4 +1,4 @@
-# Hand-Gesture-Detection
+# Hand Gesture Detection
 ## A program for detecting hand gestures based on ASL.
 
 Use `data_collection.py` for training. All you have to do is save the images of your hand in a certain position. 
